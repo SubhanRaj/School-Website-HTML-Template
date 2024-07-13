@@ -52,6 +52,6 @@ git clone https://github.com/SubhanRaj/School-Website-HTML-Template
 
 ## License
 
-Chishti Chats is open-sourced software licensed under the [MIT license](LICENSE). You are free to use, modify, distribute, and sell it under the given license.
+This is open-sourced template licensed under the [MIT license](LICENSE). You are free to use, modify, distribute, and sell it under the given license.
 
 
